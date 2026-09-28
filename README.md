@@ -33,8 +33,29 @@ This makes navigating large video-based courses faster and easier.
 
 <img width="1437" height="257" alt="Generated response" src="https://github.com/user-attachments/assets/d3593b6f-f122-42ee-81d4-d063e5d43aae" />
 
+### Example 2 
+
+**User Query**
+
+Ask a question: where is input tag taught in this course?
+
+**Generated Response — Ollama (Llama 3.2)**
+
+<img width="998" height="232" alt="Generated response" src="https://github.com/user-attachments/assets/f46ee0ce-a1fe-4695-9bbf-7af292d7e667" />
+
+### Example 3 - a sub-topic which is taught inside the video 
+
+**User Query**
+
+Ask a question: Where is display property taught?
+
+**Generated Response — Ollama (Llama 3.2)**
+
+<img width="1422" height="366" alt="Generated response" src="https://github.com/user-attachments/assets/6319b536-9da3-4649-afa2-a8d9e0db6ce4" />
+
 **Result:**  
 The system identifies the relevant lecture, video number, and timestamp where the topic is taught.
+
 
 
 
