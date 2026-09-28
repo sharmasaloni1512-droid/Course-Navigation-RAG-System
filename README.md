@@ -31,7 +31,7 @@ This makes navigating large video-based courses faster and easier.
 
 **Generated Response — Ollama (Llama 3.2)**
 
-<img width="1437" height="257" alt="Generated response" src="https://github.com/user-attachments/assets/694c351b-a19d-4600-a1b9-2b854d94de82" />
+<img width="1437" height="257" alt="Generated response" src="https://github.com/user-attachments/assets/d3593b6f-f122-42ee-81d4-d063e5d43aae" />
 
 **Result:**  
 The system identifies the relevant lecture, video number, and timestamp where the topic is taught.
