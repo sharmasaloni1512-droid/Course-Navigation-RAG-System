@@ -27,7 +27,7 @@ This makes navigating large video-based courses faster and easier.
 
 **User Query**
 
-<img width="768" height="205" alt="User query" src="https://github.com/user-attachments/assets/2022067b-bc61-41b1-9f36-56e8fbadf083" />
+Ask a question: Where is paragraph taught?
 
 **Generated Response — Ollama (Llama 3.2)**
 
@@ -55,6 +55,20 @@ Ask a question: Where is display property taught?
 
 **Result:**  
 The system identifies the relevant lecture, video number, and timestamp where the topic is taught.
+
+## How It Works?
+
+The project follows a six-step RAG pipeline, from video preprocessing
+and transcription to semantic retrieval and response generation.
+
+<p align="center">
+  <img 
+    src="images/rag-workflow.png" 
+    alt="RAG project workflow"
+    width="950"
+  />
+</p>
+
 
 
 
