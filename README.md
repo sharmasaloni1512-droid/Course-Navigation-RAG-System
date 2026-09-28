@@ -67,6 +67,21 @@ and transcription to semantic retrieval and response generation.
 
 </p>
 
+## Tech Stack
+
+| Technology | Purpose |
+|---|---|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) | Core development |
+| ![Whisper](https://img.shields.io/badge/Whisper-412991?style=for-the-badge) | Audio transcription |
+| ![BGE--M3](https://img.shields.io/badge/BGE--M3-6C5CE7?style=for-the-badge) | Text embeddings |
+| ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge) | Local LLM execution |
+| ![Llama](https://img.shields.io/badge/Llama_3.2-0467DF?style=for-the-badge) | Response generation |
+| ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) | Data processing |
+| ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) | Numerical operations |
+| ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white) | Cosine similarity |
+| ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) | Video-to-audio conversion |
+| ![Joblib](https://img.shields.io/badge/Joblib-4B8BBE?style=for-the-badge) | Saving processed data |
+
 
 
 
