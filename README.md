@@ -82,6 +82,38 @@ and transcription to semantic retrieval and response generation.
 | ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white) | Video-to-audio conversion |
 | ![Joblib](https://img.shields.io/badge/Joblib-4B8BBE?style=for-the-badge) | Saving processed data |
 
+## Future Improvements
+
+- Support multiple courses
+- Add a web-based user interface
+- Add clickable video timestamps
+- Improve retrieval using hybrid search
+- Add conversation history
+- Add automatic topic summaries
+- Support larger course libraries
+
+## Why RAG?
+
+A traditional LLM may answer course-related questions using its general
+knowledge.
+
+This project retrieves relevant information from the actual course content
+and provides it to the LLM as context.
+
+```text
+User Question
+      ↓
+Retrieve Relevant Course Content
+      ↓
+Provide Context to LLM
+      ↓
+Generate Course-Grounded Answer
+
+```
+
+## Author
+
+**Saloni Sharma**
 
 
 
