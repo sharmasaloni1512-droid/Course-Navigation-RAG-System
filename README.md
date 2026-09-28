@@ -62,11 +62,9 @@ The project follows a six-step RAG pipeline, from video preprocessing
 and transcription to semantic retrieval and response generation.
 
 <p align="center">
-  <img 
-    src="images/rag-workflow.png" 
-    alt="RAG project workflow"
-    width="950"
-  />
+  
+  <img width="1427" height="632" alt="Screenshot 2026-09-27 232118" src="https://github.com/user-attachments/assets/ac921f39-f649-464a-a793-e90899593329" />
+
 </p>
 
 
